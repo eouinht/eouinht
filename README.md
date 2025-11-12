@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thuong</h1>
 <h3 align="center">Electronics & Telecommunications</h3>
 
-- 🌱 I’m currently learning **deep-rl-course**
 
 - 📫 How to reach me **thuonghoai2080@gmail.com**
 
